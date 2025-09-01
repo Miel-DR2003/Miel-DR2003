@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miel De Roeck</h1>
 <h3 align="center">A passionate full stack developer from Belgium.</h3>
 
-- 🔭 I’m currently working on **my bachelorthesis**
-
-- 🌱 I’m currently learning **PHP**
+- 🔭 I’m currently learning **Cybersecurity at HOWEST**
 
 - 📫 How to reach me **mieldr1@gmail.com**
 
